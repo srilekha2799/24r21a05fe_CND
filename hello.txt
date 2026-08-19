@@ -1,5 +1,8 @@
 Hello GitHub
 I am Srilekha
 From CSE-E
+<<<<<<< HEAD
 Git is useful for version control.
 GitHub helps us collaborate and store repositories online.
+=======
+>>>>>>> 69eab9ee2be948286cfeb50c11981fe159638cee
