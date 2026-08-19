@@ -1,3 +1,5 @@
 Hello GitHub
 I am Srilekha
 From CSE-E
+Git is useful for version control.
+GitHub helps us collaborate and store repositories online.
